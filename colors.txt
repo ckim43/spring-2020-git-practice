@@ -6,3 +6,5 @@ blue
 purple
 pink
 brown
+white
+black
