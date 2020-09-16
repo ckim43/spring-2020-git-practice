@@ -8,3 +8,5 @@ Audi
 KIA
 Mazda
 Jeep
+Hyundai
+Ferrari
